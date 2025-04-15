@@ -59,3 +59,5 @@ docker compose logs -f
 - Visit http://localhost:8000
 - Run migrations, seeders, and verify storage/log permissions
 
+## 🤝 Contributions welcome!
+
